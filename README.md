@@ -1,2 +1,2 @@
-# Pterodactyl-Installer
-Pterodactyl panel Installer
+# Pterodactyl panel Installer
+
